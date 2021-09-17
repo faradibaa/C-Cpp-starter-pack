@@ -10,7 +10,7 @@ int main() {
     char karakter; // satu buah karakter
     string kata; // kumpulan char
     bool ya_tidak; // nilainya hanya true dan false
-    const int bil_tetap = 10; // bernilai konstan dan tidak bisa diubah. Selain untuk int
+    const int bil_tetap = 10; // bernilai konstan dan tidak bisa diubah
 
     cin >> integer;
     cin >> pecahan >> karakter; // bisa langsung dalam satu baris seperti ini
