@@ -1,2 +1,2 @@
 # C-Cpp-starter-pack
-Repository ini berisi kodingan contoh kodingan dasar maupun projek sederhana dalam bahasa C/C++.
+Repository ini berisi contoh kodingan dasar maupun projek sederhana dalam bahasa C/C++.
